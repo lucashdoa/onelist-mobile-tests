@@ -1,7 +1,7 @@
 # OneList Mobile Tests
 
 A group study project by T10's QA team.
-The main subject is mobile test automation using Python and Selenium.
+The main subject is mobile test automation using Python, Appium and Selenium.
 
 ---
 
